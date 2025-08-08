@@ -7,6 +7,8 @@ This project is built to demonstrate advanced skills in database design and impl
 
 To enhance organization and scalability, a well-structured schema design has been implemented along with Synonyms to facilitate cross-schema object referencing. The ultimate goal of this project is to provide a comprehensive, scalable, and production-ready database model that seamlessly addresses both operational requirements and reporting/analytical needs in a unified solution.
 
+[See DB Document](https://rezaferdosara.github.io/POS-SQLServer/)
+
 ## Key Highlights & Project Objectives
 
 - Stored Procedure
@@ -30,7 +32,7 @@ To enhance organization and scalability, a well-structured schema design has bee
 
 ⚡️ Using "dbforge SQL Decryptor" For Decrypt All SP
 
-⚡️ Document Created By "Redgate SQL Doc 5"
+⚡️ Document Created By "Redgate SQL Doc 5" - [See DB Document](https://rezaferdosara.github.io/POS-SQLServer/)
 
 
 ## ERD
